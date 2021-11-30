@@ -2,7 +2,7 @@
   "name": "proyectofinal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://00270720.github.io/proyect-app",
+  "homepage": "http://00270720.github.io/proyect-code",
   "dependencies": {
     "@craco/craco": "^6.4.1",
     "@heroicons/react": "^1.0.5",
